@@ -22,5 +22,10 @@
     "repository": "android_hardware_samsung",
     "target_path": "hardware/samsung"
     "branch": "cm-10.2"
+  },
+  { "project": "TheMuppets",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch": "cm-10.2"
   }
 ]
